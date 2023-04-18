@@ -16,8 +16,8 @@
 <div> 
   <a hre
   <a href="https://www.instagram.com/u.u_vit0r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/867930080637247568/867930745690259486" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vtrdsl02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/Vitor Martins#2139" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
